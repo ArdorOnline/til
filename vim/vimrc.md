@@ -9,7 +9,7 @@ set encoding=utf-8
 
 ## 'fileencodings' 'fencs'
 ```
-set fileencodings=utf-8,iso-2022-jp,sjis,euc-jp
+set fileencodings=iso-2022-jp,uc-jp,sjis,cp932,utf-8
 ```
 値は、既存のファイルの編集を開始するときに考慮される文字エンコーディングのリストである。  
 ファイルが読み込まれると、Vimは指定されたうちの先頭の文字エンコーディングを使おうとする。  
