@@ -19,6 +19,11 @@ $ git config --global core.autocrlf input
 |false|変換しない|変換しない|
 
 
+## カラー出力の有効化
+```
+$ git config --global color.ui auto
+```
+
 ## 確認コマンド
 確認は以下のコマンド
 ```
