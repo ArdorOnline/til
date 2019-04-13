@@ -24,6 +24,13 @@ $ git config --global core.autocrlf input
 $ git config --global color.ui auto
 ```
 
+## Github SSH設定
+```
+[url "github:"]
+	InsteadOf = https://github.com/
+	InsteadOf = git@github.com:
+```
+
 ## 確認コマンド
 確認は以下のコマンド
 ```
