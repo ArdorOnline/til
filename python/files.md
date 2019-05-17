@@ -9,3 +9,4 @@
 |ファイル作成日時|os.path.getctime(fileName)|
 |ファイル更新日時|os.path.getmtime(fileName)|
 |ファイルアクセス日時|os.path.getatime(fileName)|
+|ファイル拡張子取得|root, ext = os.path.splitext(fileName)|
