@@ -10,3 +10,4 @@ ssh -V
 |プロパティ|設定値|説明|
 |:--|:--|:--|
 |Port|22|ポート番号|
+|PermitRootLogin|yes/no|rootでのログイン可否|
