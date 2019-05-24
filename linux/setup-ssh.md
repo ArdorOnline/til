@@ -11,6 +11,7 @@ ssh -V
 |:--|:--|:--|
 |Port|22|ポート番号|
 |PermitRootLogin|yes/no|rootでのログイン可否|
+|PasswordAuthentication|yes/no|パスワード認証可否|
 
 ### PermitRootLogin設定値
 |設定値|説明|
