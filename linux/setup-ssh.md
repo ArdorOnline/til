@@ -14,6 +14,7 @@ ssh -V
 |PasswordAuthentication|yes/no|パスワード認証可否|
 |PermitEmptyPasswords|yes/no|空パスワード可否|
 |LoginGraceTime|2m|認証可能時間|
+|MaxAuthTries|6|最大認証トライ回数|
 
 ### PermitRootLogin設定値
 |設定値|説明|
