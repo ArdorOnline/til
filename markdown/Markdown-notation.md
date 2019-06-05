@@ -89,3 +89,17 @@
 >> 二重引用
 
 ----
+
+# 強調
+
+書き方
+```
+normal *italic* normal
+normal _italic_ normal
+```
+
+結果  
+normal *italic* normal  
+normal _italic_ normal  
+
+----
