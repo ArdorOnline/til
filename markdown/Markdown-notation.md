@@ -90,7 +90,7 @@
 
 ----
 
-# 強調
+# 強調 <em>
 
 書き方
 ```
@@ -101,5 +101,19 @@ normal _italic_ normal
 結果  
 normal *italic* normal  
 normal _italic_ normal  
+
+----
+
+# 強調 <strong>
+
+書き方
+```
+normal **bold** normal
+normal __bold__ normal
+```
+
+結果  
+normal **bold** normal  
+normal __bold__ normal  
 
 ----
