@@ -117,3 +117,17 @@ normal **bold** normal
 normal __bold__ normal  
 
 ----
+
+# 強調 <em> + <strong>
+
+書き方
+```
+normal ***bold*** normal
+normal ___bold___ normal
+```
+
+結果  
+normal ***bold*** normal  
+normal ___bold___ normal  
+
+----
