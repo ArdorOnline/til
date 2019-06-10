@@ -163,3 +163,15 @@ ___
 [Google](https://www.google.co.jp/)
 
 ----
+
+# 定義参照リンク
+
+書き方
+```
+検索は[Google][Google]で！
+```
+
+結果  
+検索は[Google][Google]で！
+
+----
