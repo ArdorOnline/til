@@ -175,3 +175,16 @@ ___
 検索は[Google][Google]で！
 
 ----
+
+
+# code記法
+
+書き方
+```
+コマンドは  `git log --oneline`  です
+```
+
+結果  
+コマンドは `git log --oneline` です
+
+----
