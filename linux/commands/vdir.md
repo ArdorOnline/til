@@ -16,3 +16,4 @@ vdir [オプション] ファイル名
 |-A<br> --almost-all|「./」と「../」以外の全てのファイルとディレクトリを表示|
 |-B<br> --ignore-backups|ファイル名の最後に「~」が付いたバックアップファイルを表示しない|
 |--color|色付きで表示(never, always, autoを--color=の後に指定可能)|
+|-k<br> --kilobytes|キロバイト単位で表示|
