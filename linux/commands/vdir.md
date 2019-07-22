@@ -17,3 +17,4 @@ vdir [オプション] ファイル名
 |-B<br> --ignore-backups|ファイル名の最後に「~」が付いたバックアップファイルを表示しない|
 |--color|色付きで表示(never, always, autoを--color=の後に指定可能)|
 |-k<br> --kilobytes|キロバイト単位で表示|
+|-l|ロングフォーマットで詳細情報を表示|
