@@ -25,3 +25,4 @@ nkf [オプション][ファイル名]
 |-mB|MIME Base64でエンコードされた入力をデコード|
 |-mO|MIMEをデコードしない|
 |-M|MIMEに変換|
+|-MB|MIME Bases64に変換|
