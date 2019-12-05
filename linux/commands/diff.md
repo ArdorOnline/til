@@ -17,3 +17,4 @@ diff [オプション][旧ファイル名 | -][新ファイル名 | -]
 |-b<br> --ignore-space-change|空白数が違うだけの場合は無視|
 |-e<br> --ed|edスクリプト形式で出力|
 |-y<br> --side-by-side|sid-by-side形式で出力|
+|-u|unified形式で出力|
