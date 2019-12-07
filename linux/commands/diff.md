@@ -18,3 +18,4 @@ diff [オプション][旧ファイル名 | -][新ファイル名 | -]
 |-e<br> --ed|edスクリプト形式で出力|
 |-y<br> --side-by-side|sid-by-side形式で出力|
 |-u|unified形式で出力|
+|-n<br> --rcs|RCS形式で出力|
