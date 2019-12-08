@@ -19,3 +19,4 @@ diff [オプション][旧ファイル名 | -][新ファイル名 | -]
 |-y<br> --side-by-side|sid-by-side形式で出力|
 |-u|unified形式で出力|
 |-n<br> --rcs|RCS形式で出力|
+|-i<br> --ignore-case|大文字と小文字の違いを無視|
