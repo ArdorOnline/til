@@ -25,3 +25,4 @@ diff [オプション][旧ファイル名 | -][新ファイル名 | -]
 |-r<br> --recursive|ディレクトリを比較する場合は、サブディレクトリを再帰的に比較|
 |-s<br> --report-identical-files|ファイルに違いがない場合も報告|
 |-t<br> --expand-tabs|タブをスペースに変換|
+|-B<br> --ignore-blank-lines|空行のみ違いを無視|
